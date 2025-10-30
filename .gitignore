@@ -1,14 +1,4 @@
-# Large generated files that can be recreated by running the notebook
+# ignore large files
 submission/train-features.tsv
 submission/test-features.tsv
-
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
-# Data files
-*.zip
+submission.zip.DS_Store
